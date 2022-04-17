@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Homepage/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Homepage/app/src/main/res/layout/single_item.xml" value="0.1" />
-        <entry key="..\:/Homepage/app/src/main/res/layout/single_plan.xml" value="0.1" />
-        <entry key="..\:/Homepage/app/src/main/res/layout/title.xml" value="0.1" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/drawable/ic_baseline_speaker_phone_24.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/drawable/tupain2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/drawable/tupian.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.1296875" />
+        <entry key="..\:/Users/34841/Desktop/see/MyApplication/app/src/main/res/layout/create_user_dialog.xml" value="0.2" />
       </map>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
